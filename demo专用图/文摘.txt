@@ -8,3 +8,6 @@ http://www.linuxidc.com/Linux/2012-11/73470.htm
 3.iOS signal使用demo和介绍：
     1..http://www.cocoachina.com/newbie/tutorial/2012/0829/4672.html
     2..http://www.sharejs.com/codes/objectc/5882
+
+4.runloop的详细介绍
+http://www.cnblogs.com/scorpiozj/archive/2011/05/26/2058167.html
