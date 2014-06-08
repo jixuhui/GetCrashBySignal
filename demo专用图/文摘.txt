@@ -1,0 +1,10 @@
+参考网址：
+1.百度百科对signal机制的介绍：
+http://baike.baidu.com/link?url=j4kempoWEDCtjYc_QbjyV1mSBgw6MrJo2ea8u5erRFgEZ96-i8JfUA6eKBEjowNn
+
+2.运行堆栈的介绍：
+http://www.linuxidc.com/Linux/2012-11/73470.htm
+
+3.iOS signal使用demo和介绍：
+    1..http://www.cocoachina.com/newbie/tutorial/2012/0829/4672.html
+    2..http://www.sharejs.com/codes/objectc/5882
